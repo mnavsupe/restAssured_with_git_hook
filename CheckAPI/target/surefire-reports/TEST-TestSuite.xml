@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="3.386" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="3.674" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_202\jre\bin"/>
@@ -62,6 +62,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="API" classname="testAPI.CheckOPEN_API" time="3.385"/>
-  <testcase name="CheckFirstTest" classname="testAPI.CheckOPEN_API" time="0.001"/>
+  <testcase name="CheckFirstTest" classname="testAPI.CheckOPEN_API" time="0.004"/>
+  <testcase name="VerifyStatusCode" classname="testAPI.CheckOPEN_API" time="3.67"/>
 </testsuite>

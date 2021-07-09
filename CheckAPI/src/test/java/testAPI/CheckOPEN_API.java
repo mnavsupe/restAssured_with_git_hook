@@ -16,7 +16,7 @@ public class CheckOPEN_API {
 		}
 	
 		@Test
-		public static void API()
+		public static void VerifyStatusCode()
 		{
 			given().when().get(endpoint).then().assertThat().statusCode(200);
 			

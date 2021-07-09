@@ -10,7 +10,7 @@ public class CheckOPEN_API {
 	
 		static String endpoint = "https://api.agify.io/?name=bella";
 		@Test
-		public static void Check()
+		public static void CheckFirstTest()
 		{
 			System.out.println("Test");
 		}

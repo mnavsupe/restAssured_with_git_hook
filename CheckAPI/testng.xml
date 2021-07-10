@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Default suite" guice-stage="DEVELOPMENT">
+<suite name="API_Giffy_Site_Suite" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test" verbose="2">
     <classes>
       <class name="testAPI.CheckOPEN_API"/>

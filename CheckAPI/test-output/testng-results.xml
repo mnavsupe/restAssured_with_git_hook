@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-09T15:18:09 IST" name="Default suite" finished-at="2021-07-09T15:18:13 IST" duration-ms="3289">
+  <suite started-at="2021-07-10T11:24:09 IST" name="API_Giffy_Site_Suite" finished-at="2021-07-10T11:24:12 IST" duration-ms="2978">
     <groups>
     </groups>
-    <test started-at="2021-07-09T15:18:09 IST" name="Default test" finished-at="2021-07-09T15:18:13 IST" duration-ms="3289">
+    <test started-at="2021-07-10T11:24:09 IST" name="Default test" finished-at="2021-07-10T11:24:12 IST" duration-ms="2978">
       <class name="testAPI.CheckOPEN_API">
-        <test-method signature="API()[pri:0, instance:testAPI.CheckOPEN_API@1d8bd0de]" started-at="2021-07-09T15:18:09 IST" name="API" finished-at="2021-07-09T15:18:13 IST" duration-ms="3251" status="PASS">
+        <test-method signature="CheckFirstTest()[pri:0, instance:testAPI.CheckOPEN_API@1d8bd0de]" started-at="2021-07-10T11:24:09 IST" name="CheckFirstTest" finished-at="2021-07-10T11:24:09 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- API -->
-        <test-method signature="Check()[pri:0, instance:testAPI.CheckOPEN_API@1d8bd0de]" started-at="2021-07-09T15:18:13 IST" name="Check" finished-at="2021-07-09T15:18:13 IST" duration-ms="2" status="PASS">
+        </test-method> <!-- CheckFirstTest -->
+        <test-method signature="VerifyStatusCode()[pri:0, instance:testAPI.CheckOPEN_API@1d8bd0de]" started-at="2021-07-10T11:24:09 IST" name="VerifyStatusCode" finished-at="2021-07-10T11:24:12 IST" duration-ms="2945" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Check -->
+        </test-method> <!-- VerifyStatusCode -->
       </class> <!-- testAPI.CheckOPEN_API -->
     </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+  </suite> <!-- API_Giffy_Site_Suite -->
 </testng-results>

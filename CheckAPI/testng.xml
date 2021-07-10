@@ -5,6 +5,6 @@
     <classes>
       <class name="testAPI.CheckOPEN_API"/>
     </classes>
-  </test> <!-- Default test -->
-</suite> <!-- Default suite -->
+  </test> 
+</suite>
             

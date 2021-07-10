@@ -21,4 +21,12 @@ public class CheckOPEN_API {
 			given().when().get(endpoint).then().assertThat().statusCode(200);
 			
 		}
+		
+		@Test
+		public static void CheckGitCommitTakingName()
+		{
+			given().when().get(endpoint).then().assertThat().statusCode(200);
+			
+		}
+		
 }

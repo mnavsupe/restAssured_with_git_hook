@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6519" started-at="2021-07-09T22:08:26 IST" finished-at="2021-07-09T22:08:32 IST">
+  <suite name="API_Giffy_Site_Suite" duration-ms="3709" started-at="2021-07-10T11:56:46 IST" finished-at="2021-07-10T11:56:49 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6519" started-at="2021-07-09T22:08:26 IST" finished-at="2021-07-09T22:08:32 IST">
+    <test name="Default test" duration-ms="3709" started-at="2021-07-10T11:56:46 IST" finished-at="2021-07-10T11:56:49 IST">
       <class name="testAPI.CheckOPEN_API">
-        <test-method status="PASS" signature="CheckFirstTest()[pri:0, instance:testAPI.CheckOPEN_API@1e88b3c]" name="CheckFirstTest" duration-ms="13" started-at="2021-07-09T22:08:26 IST" finished-at="2021-07-09T22:08:26 IST">
+        <test-method status="PASS" signature="CheckFirstTest()[pri:0, instance:testAPI.CheckOPEN_API@1e88b3c]" name="CheckFirstTest" duration-ms="5" started-at="2021-07-10T11:56:46 IST" finished-at="2021-07-10T11:56:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckFirstTest -->
-        <test-method status="PASS" signature="VerifyStatusCode()[pri:0, instance:testAPI.CheckOPEN_API@1e88b3c]" name="VerifyStatusCode" duration-ms="6404" started-at="2021-07-09T22:08:26 IST" finished-at="2021-07-09T22:08:32 IST">
+        <test-method status="PASS" signature="VerifyStatusCode()[pri:0, instance:testAPI.CheckOPEN_API@1e88b3c]" name="VerifyStatusCode" duration-ms="3664" started-at="2021-07-10T11:56:46 IST" finished-at="2021-07-10T11:56:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyStatusCode -->
       </class> <!-- testAPI.CheckOPEN_API -->
     </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+  </suite> <!-- API_Giffy_Site_Suite -->
 </testng-results>
